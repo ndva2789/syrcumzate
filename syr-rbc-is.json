@@ -1,9 +1,9 @@
 [ {
   "id" : "fb77c889",
-  "init" : 90,
+  "init" : 210,
   "note" : "defull",
   "pack" : "",
-  "pe1" : 360,
-  "pe2" : 960,
+  "pe1" : 270,
+  "pe2" : 320,
   "status" : true
 } ]
